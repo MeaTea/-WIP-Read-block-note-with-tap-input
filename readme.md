@@ -22,5 +22,9 @@ Future Roadmap (To be implemented one by one)
 
 
 
+How to play:
+Tap whatever with keyboard when the line come closer to note.
+
+
 Hope this will all be realized and won't end up as WIS (Work In Stuck)
 
